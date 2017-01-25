@@ -1,0 +1,25 @@
+﻿<Page
+    x:Class="Lock.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Lock"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:adduplex="using:AdDuplex.Universal.Controls.WinPhone.XAML"
+
+    mc:Ignorable="d"
+
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Margin="0,0.333,0,-0.333">
+
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="Assets/key1.jpg"/>
+        </Grid.Background>
+
+        <Button  Background="#FF202740" Content="Add Your Account" HorizontalAlignment="Left" Margin="68,110,0,0" VerticalAlignment="Top" Height="63" Width="255" Click="Butten_Click_1"/>
+        <Button  Background="#FF202740" Content="Show Your Account" HorizontalAlignment="Left" Margin="68,197,0,0" VerticalAlignment="Top" Width="255" Click="Butten_Click_2" Height="66" />
+
+        <adduplex:AdControl AdUnitId="151139" AppKey="59ec8751-8810-4299-ad1a-c110171ca153"  Margin="0,288,0,273" />
+    </Grid>
+</Page>

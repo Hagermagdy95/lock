@@ -1,0 +1,8 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\hager magdy\documents\visual studio 2013\projects\lock\lock\lock.windowsphone\obj\x86\debug\intermediatexaml\lock.windowsphone.exe" HashGuid="5b135d0f-34f9-1c95-6499-d30a4085e6a4" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\adduplex.winphone.extension\9.0.0.4\references\commonconfiguration\neutral\adduplex.universal.controls.winphone.xaml.winmd" HashGuid="51432057-0b89-e0b2-0e90-860548859d0d" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\adduplex.winphone.extension\9.0.0.4\references\commonconfiguration\neutral\adduplex.universal.winphone.winrt.winmd" HashGuid="583512d9-4c6a-e7ad-c421-2c9e2d0d4040" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
